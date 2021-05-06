@@ -3,6 +3,7 @@
 //  BasicCollectionView
 //
 //  Created by Ben Gohlke on 5/3/21.
+//  Guided project completed by Sameera Leola on 3/5/21.
 //
 
 import UIKit
