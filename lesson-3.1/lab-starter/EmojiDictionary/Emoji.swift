@@ -1,5 +1,7 @@
 import Foundation
 
+// Emoji model
+
 struct Emoji: Codable {
     var symbol: String
     var name: String
